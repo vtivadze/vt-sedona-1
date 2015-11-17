@@ -974,6 +974,7 @@ input[type="checkbox"]:disabled + label {
 }
 .result-sort li:first-child {
 	margin-right: 20px;
+	color: #000000;
 }
 .result-sort li:not(:last-child) {
 	margin-right: 10px;
